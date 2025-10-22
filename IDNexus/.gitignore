@@ -17,3 +17,4 @@ yarn-error.log*
 
 # Other
 .DS_Store
+/../ffmpeg-8.0-essentials_build/
